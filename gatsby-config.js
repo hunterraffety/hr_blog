@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Could you imagine?`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Hunter Raffety`,
+      summary: `a software engineer who lives in Phoenix and builds neat things for the internet`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `Blog for Hunter Raffety and JavaScript / software engineer stuff.`,
+    siteUrl: `https://hunterraffety.me`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `_hunterraffety`,
     },
   },
   plugins: [
